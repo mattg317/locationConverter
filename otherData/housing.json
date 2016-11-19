@@ -1,0 +1,632 @@
+[
+{
+"Center_Name": "Mainchance",
+"Borough": "Manhattan",
+"Service": "Drop in",
+"Street_Address": "120 East 32nd Street",
+"LAT_LONG": null,
+"Phone": null,
+"URL": null,
+Comments: "Open 24 hours"
+},
+{
+"Center_Name": "The Living Room",
+"Borough": "Bronx",
+"Service": "Drop in",
+"Street_Address": "1241 Lafayette Avenue",
+"LAT_LONG": null,
+"Phone": null,
+"URL": null,
+Comments: "Open 24 hours"
+},
+{
+"Center_Name": "Olivieri Center",
+"Borough": "Manhattan",
+"Service": "Drop in",
+"Street_Address": "257 West 30th Street",
+"LAT_LONG": null,
+"Phone": null,
+"URL": null,
+Comments: "Open from 7:30 a.m.-8:30 p.m. This program remain open 24 hours during winter months"
+},
+{
+"Center_Name": "The Gathering Place",
+"Borough": "Brooklyn",
+"Service": "Drop in",
+"Street_Address": "2402 Atlantic Avenue",
+"LAT_LONG": null,
+"Phone": null,
+"URL": null,
+Comments: "Open from 7:30 a.m.-8:30 p.m. This program remain open 24 hours during winter months"
+},
+{
+"Center_Name": "Project Hospitality",
+"Borough": "Staten Island",
+"Service": "Drop in",
+"Street_Address": "25 Central Avenue",
+"LAT_LONG": null,
+"Phone": null,
+"URL": null,
+Comments: "Open from 7:30 a.m.-8:30 p.m. This program remain open 24 hours during winter months"
+},
+{
+"Center_Name": "Safe Horizon, Inc",
+"Borough": "Manhattan",
+"Service": "Crises",
+"Street_Address": "214 West 30th Street",
+"LAT_LONG": "POINT (-73.99338310640853 40.74862808090852)",
+"Phone": "(212) 268-3943",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Covenant House",
+"Borough": "Manhattan",
+"Service": "Crises",
+"Street_Address": "427 West 52nd Street,",
+"LAT_LONG": "POINT (-73.98926242678021 40.76543659340834)",
+"Phone": "(212) 613-0300 ext. 0532",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Covenant House",
+"Borough": "Manhattan",
+"Service": "Crises",
+"Street_Address": "460 West 41st Street",
+"LAT_LONG": "POINT (-73.99557687133783 40.75854146537268)",
+"Phone": "(212) 613-0300 ext. 0531",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Ali Forney Center",
+"Borough": "Brooklyn",
+"Service": "Crises",
+"Street_Address": "241 Taffee Place",
+"LAT_LONG": "POINT (-73.9593103103567 40.69090313048385)",
+"Phone": "(212) 206-0574",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "The Turning Point Sunset Terrace",
+"Borough": "Brooklyn",
+"Service": "Crises",
+"Street_Address": "319-321 42nd Street",
+"LAT_LONG": "POINT (-74.0093510486368 40.65202799350939)",
+"Phone": "(718) 640-1560 ext. 9025",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Ali Forney Center",
+"Borough": "Brooklyn",
+"Service": "Crises",
+"Street_Address": "216 23rd Street",
+"LAT_LONG": "POINT (-73.99542364366205 40.66053403970373)",
+"Phone": "(212) 206-0574",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "The Turning Point",
+"Borough": "Brooklyn",
+"Service": "Crises",
+"Street_Address": "5220 Fourth Avenue",
+"LAT_LONG": "POINT (-74.01450042310613 40.645102977591485)",
+"Phone": "(718) 439-0077",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Cardinal McCloskey",
+"Borough": "Bronx",
+"Service": "Drop in",
+"Street_Address": "333 East 149th Street",
+"LAT_LONG": "POINT (-73.92017897369153 40.81698294716547)",
+"Phone": "(718) 993-5495",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "The Door",
+"Borough": "Manhattan",
+"Service": "Drop in",
+"Street_Address": "121 6th Avenue",
+"LAT_LONG": "POINT (-74.0051692831716 40.72412129376002)",
+"Phone": "(212) 453-0248",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Project Hospitality",
+"Borough": "Staten Island",
+"Service": "Drop in",
+"Street_Address": "1546 Castleton Avenue",
+"LAT_LONG": "POINT (-74.13440427740537 40.635744440562384)",
+"Phone": "(877) 994-6736",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "SCO Family of Services",
+"Borough": "Brooklyn",
+"Service": "Drop in",
+"Street_Address": "89 South 10th Street",
+"LAT_LONG": "POINT (-73.96509134546051 40.70832272876161)",
+"Phone": "(718) 384-7083",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Bronx Community Pride Center",
+"Borough": "Bronx",
+"Service": "Drop in",
+"Street_Address": "448 East 149th Street",
+"LAT_LONG": "POINT (-73.91562948297278 40.81491018917466)",
+"Phone": "(718) 292-4368",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Safe Horizon, Inc",
+"Borough": "Manhattan",
+"Service": "Drop in",
+"Street_Address": "209 West 125th Street",
+"LAT_LONG": "POINT (-73.94858861436468 40.809390746635856)",
+"Phone": "(212) 695-2220",
+"URL": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+Comments: "Runaway and Homeless Youth (RHY) Services"
+},
+{
+"Center_Name": "Good Shepherd Services",
+"Borough": "Manhattan",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "646.485.6900",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "Green Chimneys",
+"Borough": "Manhattan",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "212.491.5911 ext. 13",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "Girls Educational & Mentoring Services, Inc.",
+"Borough": "Manhattan",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "212.926.8089 ext. 25",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "Inwood House",
+"Borough": "Manhattan",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "212.861.4325",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "SCO Family of Services",
+"Borough": "Brooklyn",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "718.827.8465",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "SCO Family of Services",
+"Borough": "Brooklyn",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "718.782.0198",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "SCO Family of Services",
+"Borough": "Brooklyn",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "718.326.5931",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "SCO Family of Services IV",
+"Borough": "Queens",
+"Service": null,
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "718.217.5613",
+"URL": null,
+Comments: null
+},
+{
+"Center_Name": "Safe Space NYC, Inc",
+"Borough": "Queens",
+"Service": null,
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "718.526.3000",
+"URL": null,
+Comments: null
+},
+{
+"Center_Name": "Rachel's Place",
+"Borough": "Brooklyn",
+"Service": "Transitional Independent Living (TIL)",
+"Street_Address": null,
+"LAT_LONG": null,
+"Phone": "718.253.5364",
+"URL": null,
+Comments: "Transitional Independent Living (TIL)"
+},
+{
+"Center_Name": "La Asociacion Benefica Cultural Father Billini",
+"Borough": "Queens",
+"Service": "Drop-In Center",
+"Street_Address": "104 11 37th Avenue",
+"LAT_LONG": "40.749678220373596, -73.85304068857687",
+"Phone": "718.651.8427",
+"URL": null,
+Comments: "Street Outreach"
+},
+{
+"Center_Name": "Safe Horizon, Inc",
+"Borough": "Manhattan",
+"Service": "Street Outreach",
+"Street_Address": "209 125th Street",
+"LAT_LONG": "40.809154206198805, -73.94868347483566",
+"Phone": "212.695.2220 or 800.708.6600",
+"URL": null,
+Comments: "Drop-In Center"
+},
+{
+"Center_Name": "Greenwich Village Youth Council",
+"Borough": "Manhattan",
+"Service": "Drop-In Center",
+"Street_Address": "2273 3rd Avenue",
+"LAT_LONG": "40.81329776108288, -73.93728252556804",
+"Phone": "646.209.1264",
+"URL": null,
+Comments: "Street Outreach"
+},
+{
+"Center_Name": "Ali Forney Center",
+"Borough": "Brooklyn",
+"Service": "Street Outreach",
+"Street_Address": "241 Taffee Place",
+"LAT_LONG": "40.69159578320248, -73.95963928881649",
+"Phone": "212.206.0574",
+"URL": null,
+Comments: "Crisis Shelter"
+},
+{
+"Center_Name": "Safe Horizon",
+"Borough": "Manhattan",
+"Service": "Crisis Shelter",
+"Street_Address": "165 131st Street",
+"LAT_LONG": "40.81234377905435, -73.94449601797605",
+"Phone": "212.268.3943",
+"URL": null,
+Comments: "Crisis Shelter"
+},
+{
+"Center_Name": "Covenant House New York / Under 21",
+"Borough": "Manhattan",
+"Service": "Crisis Shelter",
+"Street_Address": "427 52nd Street",
+"LAT_LONG": "40.76527589061238, -73.9892468022828",
+"Phone": "212.613.0300 ext. 0532",
+"URL": null,
+Comments: "Crisis Shelter"
+},
+{
+"Center_Name": "Bronx Community Pride Center, Inc.",
+"Borough": "Bronx",
+"Service": "Drop-In Center",
+"Street_Address": "448 149th Street",
+"LAT_LONG": "40.815410316439, -73.91617313618086",
+"Phone": "718.292.4368",
+"URL": null,
+Comments: "Drop-In Center"
+},
+{
+"Center_Name": "Ali Forney Center",
+"Borough": "Brooklyn",
+"Service": "Crisis Shelter",
+"Street_Address": "216 23rd Street",
+"LAT_LONG": "40.66061430242008, -73.99529162858046",
+"Phone": "212.206.0574",
+"URL": null,
+Comments: "Crisis Shelter"
+},
+{
+"Center_Name": "Seamans Society for Children and Families",
+"Borough": "Staten Island",
+"Service": "Drop-In Center",
+"Street_Address": "50 Bay Street",
+"LAT_LONG": "40.63947644558331, -74.07331529510297",
+"Phone": "718.447.7740 ext. 248",
+"URL": null,
+Comments: "Drop-In Center"
+},
+{
+"Center_Name": "SCO Drop In Center",
+"Borough": "Brooklyn",
+"Service": "Crisis Shelter",
+"Street_Address": "89 10th Street",
+"LAT_LONG": "40.67214090834696, -73.99418392858094",
+"Phone": "718.384.7083",
+"URL": null,
+Comments: "Drop-In Center"
+},
+{
+"Center_Name": "Covenant House New York / Under 21",
+"Borough": "Manhattan",
+"Service": "Transportation",
+"Street_Address": "460 41st Street",
+"LAT_LONG": "40.75869416595527, -73.99534286163828",
+"Phone": "212.613.0300 ext. 0531",
+"URL": null,
+Comments: "Crisis Shelter"
+},
+{
+"Center_Name": "Safe Horizon, Inc",
+"Borough": "Manhattan",
+"Service": "Drop-In Center",
+"Street_Address": "209 125th Street",
+"LAT_LONG": "40.809154206198805, -73.94868347483566",
+"Phone": "212.695.2220",
+"URL": null,
+Comments: "Transportation"
+},
+{
+"Center_Name": "Safe Space NYC, Inc",
+"Borough": "Queens",
+"Service": "Crisis Shelter",
+"Street_Address": null,
+"LAT_LONG": "(40.71311535449007, -73.79282099978928",
+"Phone": "718.526.2400",
+"URL": null,
+Comments: "Drop-In Center"
+},
+{
+"Center_Name": "SUS",
+"Borough": "Manhattan",
+"Service": "Homebase",
+"Street_Address": "2276 Third Avenue",
+"LAT_LONG": null,
+"Phone": "917-492-1019",
+"URL": null,
+Comments: "East Harlem"
+},
+{
+"Center_Name": "SUS",
+"Borough": "Manhattan",
+"Service": "Homebase",
+"Street_Address": "265 Henry Street",
+"LAT_LONG": null,
+"Phone": "917-492-1019",
+"URL": null,
+Comments: "Lower East Side"
+},
+{
+"Center_Name": "Help USA I",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "775 Crotona Park North",
+"LAT_LONG": null,
+"Phone": "718-299-8473",
+"URL": null,
+Comments: "Crotona"
+},
+{
+"Center_Name": "Help USA I",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "3593 East 169th Street",
+"LAT_LONG": null,
+"Phone": "917-801-4512",
+"URL": null,
+Comments: "Claremont"
+},
+{
+"Center_Name": "Bronxworks",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "1130 Grand Concourse",
+"LAT_LONG": null,
+"Phone": "718-508-3100",
+"URL": null,
+Comments: "Grand Concourse"
+},
+{
+"Center_Name": "Bronxworks",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "630 Jackson Avenue",
+"LAT_LONG": null,
+"Phone": "718-993-2032",
+"URL": null,
+Comments: "Mott Haven"
+},
+{
+"Center_Name": "Help USA II",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "1780 Grand Concourse, Level I",
+"LAT_LONG": null,
+"Phone": "347-226-4540",
+"URL": null,
+Comments: "Mount Hope"
+},
+{
+"Center_Name": "Help USA II",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "1981 Sedgwick Avenue",
+"LAT_LONG": null,
+"Phone": "718-215-6453",
+"URL": null,
+Comments: "Morris Heights"
+},
+{
+"Center_Name": "ARCHNY I",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "2155 Blackrock Avenue",
+"LAT_LONG": null,
+"Phone": "718-414-1050",
+"URL": null,
+Comments: "Unionport"
+},
+{
+"Center_Name": "ARCHNY I",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "890 Garrison Avenue",
+"LAT_LONG": null,
+"Phone": "929-259-9430",
+"URL": null,
+Comments: "Hunts Point"
+},
+{
+"Center_Name": "ARCHNY II",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "2901 White Plains Road",
+"LAT_LONG": null,
+"Phone": "347-913-4694",
+"URL": null,
+Comments: "Bronxdale"
+},
+{
+"Center_Name": "ARCHNY II",
+"Borough": "Bronx",
+"Service": "Homebase",
+"Street_Address": "4377 Bronx Boulevard",
+"LAT_LONG": null,
+"Phone": "347-947-3920",
+"URL": null,
+Comments: "Woodlawn"
+},
+{
+"Center_Name": "CAMBA I",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "1117 Eastern Parkway",
+"LAT_LONG": null,
+"Phone": "718-622-7323",
+"URL": null,
+Comments: "Crown Heights"
+},
+{
+"Center_Name": "CAMBA I",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "1958 Fulton Street",
+"LAT_LONG": null,
+"Phone": "718-408-5756",
+"URL": null,
+Comments: "Bedford Stuyvesant"
+},
+{
+"Center_Name": "RBSCC",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "90 Beaver Street",
+"LAT_LONG": null,
+"Phone": "718-366-4300",
+"URL": null,
+Comments: "Bushwick"
+},
+{
+"Center_Name": "RBSCC",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "1475 Myrtle Avenue",
+"LAT_LONG": null,
+"Phone": "347-295-3738",
+"URL": null,
+Comments: "Bushwick North"
+},
+{
+"Center_Name": "RBSCC",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "145 East 98th Street",
+"LAT_LONG": null,
+"Phone": "917-819-3200",
+"URL": null,
+Comments: "Brownsville"
+},
+{
+"Center_Name": "CNS II",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "3060 Fulton Street",
+"LAT_LONG": null,
+"Phone": "929-234-3036",
+"URL": null,
+Comments: "East New York"
+},
+{
+"Center_Name": "CAMBA II",
+"Borough": "Staten Island",
+"Service": "Homebase",
+"Street_Address": "120 Stuyvesant Place, Suite 413",
+"LAT_LONG": null,
+"Phone": "718-282-6473, EX. 75007",
+"URL": null,
+Comments: "Staten Island"
+},
+{
+"Center_Name": "CNS I",
+"Borough": "Queens",
+"Service": "Homebase",
+"Street_Address": "87-80 Merrick Boulevard",
+"LAT_LONG": null,
+"Phone": "718-674-1000",
+"URL": null,
+Comments: "Jamaica"
+},
+{
+"Center_Name": "CNS I",
+"Borough": "Queens",
+"Service": "Homebase",
+"Street_Address": "Rockaways",
+"LAT_LONG": null,
+"Phone": "718-647-1015",
+"URL": null,
+Comments: "Rockaways"
+},
+{
+"Center_Name": "CAMBA II",
+"Borough": "Brooklyn",
+"Service": "Homebase",
+"Street_Address": "2211 Church Ave.",
+"LAT_LONG": null,
+"Phone": "718-940-6311",
+"URL": null,
+Comments: "Flatbush"
+}
+]

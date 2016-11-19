@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <script  src="https://code.jquery.com/jquery-3.1.1.js"  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="  crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <button id="food">Food</button>
+
+    <input id="address" type="textbox" value="450 5th street hoboken">
+    <input type="button" value="Encode" onclick="codeAddress()">
+
+    <div id="map"></div>
+
+
+    <div id="form"> 
+      
+
+    </div>
+
+   <script type="text/javascript" src= "locations.js"></script>
+
+    <script type="text/javascript" src="script.js"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAqEQmlJFm-bqFypQIalGFRynl7QxI2iO8&callback=initMap">
+    </script>
+  </body>
+</html>

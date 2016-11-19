@@ -1,0 +1,6 @@
+ {"name":"Momentum Project @ Church of the God of Prophecy",
+ "strAdress":"85 East 165th St",
+ "zip":"10452","boro":"Bronx",
+ "lat":"40.831654",
+ "long":"-73.922129",
+ "num":"Call 311 for hours"}

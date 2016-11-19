@@ -1,0 +1,15 @@
+{
+  "name": "xmlconverter",
+  "version": "1.0.0",
+  "description": "converting food back data",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "xml2js": "^0.4.17"
+  }
+}

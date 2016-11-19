@@ -8,9 +8,23 @@
   <body>
     <h3>My Google Maps Demo</h3>
     <button id="food">Food</button>
+    <button id="clear">Clear</button>
 
-    <input id="address" type="textbox" value="450 5th street hoboken">
+
+    <div>
+      <p>
+        <form>
+          Name: <input type="text" id="name">
+          Address: <input id="address" type="textbox">
+          Borough: <input id="boro" type="text">
+          Phone: <input id="phone" type="text">
+          Comments: <input id="comments" type="text">
     <input type="button" value="Encode" onclick="codeAddress()">
+
+        </form>
+      </p>
+    </div>
+
 
     <div id="map"></div>
 

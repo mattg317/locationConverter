@@ -1,33 +1,3 @@
-
-// var markers = [
-// {
-// "name": "Bronx Defenders",
-// "strAdress": "360 161st St",
-// "zip": "10451",
-// "boro": "Bronx",
-// "lat": "40.824169",
-// "long": "-73.915452",
-// "num": "718 838-7849"
-// },
-// {
-// "name": "Department Of Probation Bronx Office",
-// "strAdress": "198 East 161st Street",
-// "zip": "10451",
-// "boro": "Bronx",
-// "lat": "40.825851999999998",
-// "long": "-73.921006000000006",
-// "num": "718-802-4500"
-// },
-// {
-// "name": "Phipps",
-// "strAdress": "3125 3rd Ave",
-// "zip": "10451",
-// "boro": "Bronx",
-// "lat": "40.822020",
-// "long": "-73.912029",
-// "num": "Call 311 for hours"
-// }];
-
 console.log(markers[0].lat)
 console.log(markers[0].long)
 var geocoder;
@@ -74,6 +44,7 @@ function codeAddress() {
     // var address = document.getElementById('address').value;
     geocoder = new google.maps.Geocoder();
     var address = $("#address").val();
+    var name = $("#name").val();
     geocoder.geocode( { 'address': address}, function(results, status) {
       if (status == 'OK') {
         map.setCenter(results[0].geometry.location);
@@ -86,6 +57,7 @@ function codeAddress() {
         console.log(JSON.stringify(results[0].geometry.location));
         console.log(lat);
         console.log(lng);
+        addName(marker, name);
       } else {
         alert('Geocode was not successful for the following reason: ' + status);
       }

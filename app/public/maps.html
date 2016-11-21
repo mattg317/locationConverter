@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <script  src="https://code.jquery.com/jquery-3.1.1.js"  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="  crossorigin="anonymous"></script>
+  <script src='js/googlemaps.js'></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+  <script type="text/javascript" src="../data/locations.js"></script>
+  <script type="text/javascript" src="js/apiPOST.js"></script>
+
+
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <button id="food">Food</button>
+    <button id="clear">Clear</button>
+
+
+    <div>
+
+      <form action="action_page.">
+        <select name="choice" id="choice">
+          <option value="volvo">Food</option>
+          <option value="saab">jobs</option>
+          <option value="fiat">doctors</option>
+        </select>
+        <br><br>
+
+</form>
+      <p>
+        <form>
+          Name: <input type="text" id="name">
+          Address: <input id="address" type="textbox">
+          Borough: <input id="boro" type="text">
+          Phone: <input id="phone" type="text">
+          Comments: <input id="comments" type="text">
+    <input type="button" value="Encode" id="stuff" onclick="codeAddress()">
+
+        </form>
+      </p>
+    </div>
+
+
+    <div id="map"></div>
+
+
+    <div id="form"> 
+      
+
+    </div>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAqEQmlJFm-bqFypQIalGFRynl7QxI2iO8&callback=initMap">
+    </script>
+
+  </body>
+</html>
+
